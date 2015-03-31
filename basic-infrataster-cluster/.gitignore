@@ -1,0 +1,6 @@
+provision/repo
+Vagrantfile
+.vagrant
+Berksfile-test
+Berksfile-test.lock
+*.vm
