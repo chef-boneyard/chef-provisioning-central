@@ -1,0 +1,5 @@
+source "https://supermarket.getchef.com"
+
+cookbook "docker"
+cookbook "apache2"
+cookbook "postgresql"

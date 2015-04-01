@@ -1,0 +1,5 @@
+Berksfile.lock
+Gemfile.lock
+/*/dependencies
+/*/*_driver_repo
+/*/nodes
