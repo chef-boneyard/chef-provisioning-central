@@ -1,0 +1,13 @@
+DEPENDENCIES
+  chef_infrataster
+    path: .
+    metadata: true
+
+GRAPH
+  apache2 (3.0.0)
+    iptables (>= 0.0.0)
+    logrotate (>= 0.0.0)
+  chef_infrataster (0.0.1)
+    apache2 (>= 0.0.0)
+  iptables (0.14.0)
+  logrotate (1.7.0)
